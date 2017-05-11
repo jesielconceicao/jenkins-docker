@@ -25,7 +25,7 @@ greenballs:1.15
 groovy:2.0
 icon-shim:2.0.3
 javadoc:1.4
-job-dsl:1.62
+job-dsl:1.63
 jobConfigHistory:2.16
 jquery:1.11.2-0
 junit:1.20
